@@ -16,9 +16,9 @@
 ##   For more information and documentation visit:
 ##     https://github.com/bitnami/bitnami-docker-mongodb
 
-FROM gcr.io/bitnami-containers/mongodb:3.4.5-r1
+FROM gcr.io/bitnami-containers/mongodb:3.4.6-r0
 
-ENV STACKSMITH_STACK_ID="c2oplgk" \
+ENV STACKSMITH_STACK_ID="5ao4wqg" \
     STACKSMITH_STACK_NAME="MongoDB for slylittl3lio/stacksmith" \
     STACKSMITH_STACK_PRIVATE="1" \
     BITNAMI_CONTAINER_ORIGIN="stacksmith"
